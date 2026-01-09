@@ -7,10 +7,10 @@ I'm a junior Unity developer focused on modular systems and clean architecture. 
 [ProjectName](link) | Description | [Video](link) 
 
 ### HeroicChessTactics 
-###**Status:** In development  
-###**Repository:** [https://github.com/ParetskiAliaksandr/HeroicChessTactics.git]
-###**Genre:** Card-Based Tactics / Chess-like / Deckbuilding 
-###**Tech:** Unity, C#, Zenject (Extenject), Addressables, Async/Await
+**Status:** In development  
+**Repository:** [https://github.com/ParetskiAliaksandr/HeroicChessTactics.git]
+**Genre:** Card-Based Tactics / Chess-like / Deckbuilding 
+**Tech:** Unity, C#, Zenject (Extenject), Addressables, Async/Await
 
 ### Description:
 A modular and service-based scene and configuration management system designed for scalable Unity projects.
