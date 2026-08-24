@@ -5,7 +5,7 @@
 
 | Project | Status | Description | Tech |
 |---|---|---|---|
-| HeroicChessTactics | 🟡 In Development | This is my personal Unity project, used for developing game systems, independently learning new technologies, creating scalable architecture and production-ready workflows. Genre: Card-based Tactics / Chess-like / Deckbuilding. Repository | [Open Repository](https://github.com/ParetskiAliaksandr/HeroicChessTactics.git) | Unity, C#, Zenject, SO, async/await for Scene Loader, Async, Addressables, ScriptableObject|
+| HeroicChessTactics | 🟡 In Development | This is my personal Unity project, used for developing game systems, independently learning new technologies, creating scalable architecture and production-ready workflows. Genre: Card-based Tactics / Chess-like / Deckbuilding. Repository. [Open Repository](https://github.com/ParetskiAliaksandr/HeroicChessTactics.git)  | Unity, C#, Zenject, SO, async/await for Scene Loader, Async, Addressables, ScriptableObject|
 | More Projects Soon | 🔜 Planned | Team and collaborative projects will be added later | — |
 
 ---
