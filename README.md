@@ -1,5 +1,5 @@
 # Hi, I'm Aliaksandr Paretski 👋  
-### Junior Unity Developer
+### Unity Developer
 
 # 📂 Portfolio Projects
 
